@@ -1,0 +1,42 @@
+.h-img1{
+    height:90px;
+
+
+}
+#nav1{
+    color:white;
+}
+#nav2{
+    color:white;
+}
+#nav3{
+    color:white;
+}
+#nav4{
+    color:white;
+}
+#nav5{
+    color:white;
+}
+.h-img2{
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.W4P4oA3veLYSMvBh6MQzqAHaEo&pid=Api&P=0&h=180");
+    height:85vh;
+   background-size: cover;
+}
+.h-heading{
+    color:aliceblue;
+    font-size:140px;
+    font-weight: bold;
+}
+.h-para{
+    color:azure;
+    font-size:20px;
+}
+.h-button{
+    height:40px;
+    width:120px;
+    border-width:0px;
+    background-color:red;
+    color:aliceblue;
+    font-weight:bold;
+}
